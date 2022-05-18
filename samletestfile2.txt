@@ -1,3 +1,4 @@
  this is sample file 2
 git rever commit 1
 This is comp lec in queue
+This stash lec chage in file 2
